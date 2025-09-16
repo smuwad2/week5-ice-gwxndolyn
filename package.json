@@ -11,12 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.52.0",
-    "@types/node": "^22.15.3"
+    "@types/node": "^22.15.3",
+    "axios": "^1.12.2"
   },
   "dependencies": {
-    "http-server": "^14.1.1",
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "http-server": "^14.1.1"
   }
 }
